@@ -8,19 +8,19 @@ uniapp
 
 ### 首页
 
-![首页](/static/imgs/1.png)
+![首页]([https://imgse.com/i/pEkk9Xj)
 
 ### 元音老人及祖师文集页/藏经阁
 
-![藏经阁](/static/imgs/2.png)
+![藏经阁](https://imgse.com/i/pEkFz9S)
 
 ### 讲经堂/视频页
 
-![讲经堂](/static/imgs/3.png)
+![讲经堂](https://imgse.com/i/pEkkpcQ)
 
 ### 壁纸栏
 
-![壁纸栏](/static/imgs/4.png)
+![壁纸栏](https://imgse.com/i/pEkkS1g)
 
 
 ## 简单搭建教程
