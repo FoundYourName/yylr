@@ -46,3 +46,5 @@ uniapp
 一句弥陀最方便，不费工夫不费钱；
 
 但教一念无间断，何愁难到法王前。
+
+![南无阿弥陀佛](https://gitee.com/ljl666888/yylr/raw/master/%E7%81%AB%E8%8E%B2/static/wallpaper/%E5%8D%97%E6%97%A0%E9%98%BF%E5%BC%A5%E9%99%80%E4%BD%9B%20(%E9%87%91%E8%BA%AB)%E3%80%90%E5%A4%A7%E5%9B%BE%E7%BC%96%E5%8F%B7-A992%E3%80%9184.7%E9%95%BFcm_30.9%E5%AE%BDcm_2200x5969_meet.fo.jpg)
