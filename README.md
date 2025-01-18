@@ -8,19 +8,19 @@ uniapp
 
 ### 首页
 
-![首页](static/imgs/1.png)
+![首页](./static/imgs/1.png)
 
 ### 元音老人及祖师文集页/藏经阁
 
-![藏经阁](static/imgs/2.png)
+![藏经阁](./static/imgs/2.png)
 
 ### 讲经堂/视频页
 
-![讲经堂](static/imgs/3.png)
+![讲经堂](./static/imgs/3.png)
 
 ### 壁纸栏
 
-![壁纸栏](static/imgs/4.png)
+![壁纸栏](./static/imgs/4.png)
 
 
 ## 简单搭建教程
@@ -46,6 +46,3 @@ uniapp
 一句弥陀最方便，不费工夫不费钱；
 
  但教一念无间断，何愁难到法王前。
-# yylr
-# yylr
-# yylr
