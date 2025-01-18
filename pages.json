@@ -1,0 +1,53 @@
+{
+	"pages": [ 
+		//pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "火莲",
+				"navigationStyle": "custom" //去掉标题栏
+			}
+		},
+		{
+			"path": "pages/books/books",
+			"style": {
+				"navigationBarTitleText": "经文",
+				"navigationStyle": "custom"
+			}
+			
+		},
+		{
+			"path": "pages/read/read",
+			"style": {
+				// "navigationStyle": "custom"
+			}
+			
+		},
+		{
+			"path" : "pages/video/video",
+			"style" : 
+			{
+				"navigationBarTitleText" : "",
+				"enablePullDownRefresh" : false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path" : "pages/wallpaper/wallpaper",
+			"style" : 
+			{
+				"navigationBarTitleText" : "",
+				"enablePullDownRefresh" : false,
+				"navigationStyle": "custom"
+			}
+		}
+	],
+	"globalStyle": {
+		// "navigationBarTextStyle": "black",
+		// "navigationBarTitleText": "火中莲",
+		// "navigationBarBackgroundColor": "#F8F8F8",
+		// "backgroundColor": "#F8F8F8"
+	},
+	"uniIdRouter": {}
+	
+}
