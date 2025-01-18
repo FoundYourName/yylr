@@ -8,19 +8,19 @@ uniapp
 
 ### 首页
 
-![首页]([https://imgse.com/i/pEkk9Xj)
+![首页](https://gitee.com/ljl666888/yylr/raw/master/%E7%81%AB%E8%8E%B2/static/imgs/1.png)
 
 ### 元音老人及祖师文集页/藏经阁
 
-![藏经阁](https://imgse.com/i/pEkFz9S)
+![藏经阁](https://gitee.com/ljl666888/yylr/raw/master/%E7%81%AB%E8%8E%B2/static/imgs/2.png)
 
 ### 讲经堂/视频页
 
-![讲经堂](https://imgse.com/i/pEkkpcQ)
+![讲经堂](https://gitee.com/ljl666888/yylr/raw/master/%E7%81%AB%E8%8E%B2/static/imgs/3.png)
 
 ### 壁纸栏
 
-![壁纸栏](https://imgse.com/i/pEkkS1g)
+![壁纸栏](https://gitee.com/ljl666888/yylr/raw/master/%E7%81%AB%E8%8E%B2/static/imgs/4.png)
 
 
 ## 简单搭建教程
