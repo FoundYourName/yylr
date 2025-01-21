@@ -1,5 +1,7 @@
 # 元音老人心密道场网站
 
+[项目体验网站](https://static-mp-ca9b6ada-ed21-4191-b5f5-3ff3dcf7f969.next.bspapp.com/yylr/index.html#/)
+
 ## 软件架构
 
 uniapp
